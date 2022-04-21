@@ -1,2 +1,0 @@
-first happy piggy in first.txt
-second happy piggy in first.txt
